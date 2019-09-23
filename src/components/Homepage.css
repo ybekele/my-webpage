@@ -5,3 +5,30 @@ body {
     /* background: linear-gradient(to right, rgb(203, 52, 181), rgb(68,166,187)); */
     background: linear-gradient(to right, #EDC7B7, rgb(194, 202, 208));
 }
+
+.aboutText {
+    display: flex;
+    justify-content: space-around;
+  }
+
+.btn1, .btn2 { 
+/* background-color: #4CAF50; Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.spacer {
+    background-color: transparent; 
+    border: none;
+}
+
+/* .btn2 {
+    margin-left: 20%
+
+} */
+
+

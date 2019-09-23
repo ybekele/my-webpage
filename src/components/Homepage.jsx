@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'; 
-import {Jumbotron, Container, Row, Col, Image, Button} from 'react-bootstrap';
+import {Jumbotron, Col, Container, Row, Button} from 'react-bootstrap';
 import Particles from 'react-particles-js';
 import './Homepage.css'
 
@@ -23,13 +23,21 @@ export default class Homepage extends Component {
                 <div className="aboutText"> 
                 <Container>
                 
-                    <Jumbotron>
+                    <Jumbotron className="jumbo">
                         <h2> Yonael Bekele </h2>
                         <p> Student & Research Assistant at the University of Alberta </p>
                         <Link to="/about">
                          {/* TODO: Add styling to button later */}
-                        <Button> About</Button>
+                        <Button className="btn1"> About</Button>
+                        <Button className="spacer"></Button>
                     </Link>
+                        <Link to="/portfolio">
+                            {/* TODO: Add styling to button later */}
+                            <Button className="btn2"> Portfolio</Button>
+                            <Button className="spacer"></Button>
+                        </Link>
+       
+                        
                     </Jumbotron>
                     <Row className="show-grid text-center">
                         <Col xs={12} sm={4} className="person-wrapper">
