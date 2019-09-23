@@ -7,6 +7,7 @@ export default class Portfolio extends Component {
         return (
             <Container>
                 
+                
                     <Jumbotron>
                         <h2> Portfolio </h2>
                         <p> A collection of some of the cool projects I've been apart of! </p>
