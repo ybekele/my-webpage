@@ -1,5 +1,5 @@
 # Portfolio Website
-## https://ybekele-portfolio.herokuapp.com/
+## Deployed @ https://ybekele-portfolio.herokuapp.com/
 This React website will be used to show my portfolio projects. 
 
 ### References
