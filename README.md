@@ -1,7 +1,7 @@
 # Portfolio Website
 ## Instructions 
-To build : yarn run build 
-To deploy: yarn run deploy
+1. To build : yarn run build 
+2. To deploy: yarn run deploy
 ## Deployed @ https://ybekele-portfolio.herokuapp.com/
 This React website will be used to show my portfolio projects. 
 
