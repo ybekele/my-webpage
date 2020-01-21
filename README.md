@@ -1,9 +1,9 @@
-# Portfolio Website
+# Portfolio Website using React 
 ## Instructions 
 1. To build : yarn run build 
 2. To deploy: yarn run deploy
 ## Deployed @ https://ybekele-portfolio.herokuapp.com/
-This React website will be used to show my portfolio projects. 
+This React website will be used to show my portfolio projects with videos. 
 
 ### References
 Create a particle background using REACT - https://www.youtube.com/watch?v=MD5Uy0GJA7U&t
